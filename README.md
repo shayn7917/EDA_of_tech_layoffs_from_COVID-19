@@ -1,1 +1,1 @@
-# EDA_of_tech_layoffs_from_COVID-19
+EDA of tech layoffs from COVID 2019 to 2023.
